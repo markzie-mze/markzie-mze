@@ -1,1 +1,2 @@
-I am a conservation scientist working between southern Africa, Australia and the South Pacific.
+I am a conservation scientist and ecologist currently based in southern Africa.
+
