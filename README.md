@@ -1,2 +1,2 @@
-Working at the interface of conservation, ecology, sustainable development, data science and technology 
+Working at the interface between conservation, ecology, sustainable development, data science and technology 
 
