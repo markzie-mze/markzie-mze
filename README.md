@@ -1,2 +1,2 @@
-I am a conservation ecologist currently based in southern Africa. PhD in Environmental Science from University of Adelaide. Currently working on a Masters in Data Science.
+Working at the interface of conservation, ecology, sustainable development, data science and technology 
 
